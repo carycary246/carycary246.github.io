@@ -607,6 +607,9 @@ body:before {
 .channel-2QD9_O:hover .layout-2DM8Md {						/* dmchannel/page		inner							*/
 	background-color: rgba(var(--vtransparencycolor), 0.2);
 }
+.scroller-1JbKMe {											/* dmchannel/scroll list		inner							*/
+	background-color: rgba(var(--vtransparencycolor), 0);
+}
 .selected-aXhQR6.channel-2QD9_O .layout-2DM8Md {
 	background-color: rgb(var(--vaccentcolor));
 	text-shadow: 1px 1px var(--vtextshadow);
